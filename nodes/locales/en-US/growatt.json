@@ -9,7 +9,7 @@
           "optionweather": "weather: Calls the weather dataset of the plant.",
           "optiontotaldata": "totalData: Retrieves the data integrals. The sums since start time.",
           "optionstatusdata": "statusData: This is not available for all systems.",
-          "optiondevicetyp": "deviceTyp: Add the device typ to the Output.",
+          "optiondevicetyp": "deviceTyp: Add the device type to the Output.",
           "optionhistorylast": "historyLast: The last data record from the system history table is called up here.",
           "optionhistoryall": "historyAll: All data records from the system history table is called up here.",
           "optionplantid": "Restrict to plantId"
