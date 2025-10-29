@@ -26,6 +26,13 @@ If you have issues with the Node-RED implementation: https://github.com/RichardP
 
 If you have issues with the underlaying growatt API library: https://github.com/PLCHome/growatt
 
+## Upgrading
+
+If you are upgrading from version 1.1.2 then you will need to remove the old version node-red-contrib-growatt
+
+    npm remove node-red-contrib-growatt
+
+and restart Node Red.
 
 ## Version History
 Version 1.1.3:
