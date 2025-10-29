@@ -50,9 +50,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Maintained Fork Notice
 
-This repository is a maintained fork of  
-[`node-red-contrib-growatt`](https://github.com/Looking4Cache/node-red-contrib-growatt)  
-by Thorsten Heilmann.
+This repository is a maintained fork of [`node-red-contrib-growatt`](https://github.com/Looking4Cache/node-red-contrib-growatt) by Thorsten Heilmann.
 
 The original project is no longer actively maintained.  
 This fork continues development with fixes and enhancements to ensure
