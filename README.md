@@ -34,9 +34,6 @@ Version 1.1.3:
 Version 1.1.2:
 - Update growatt dependency to 0.7.4 (fixes login error)
 
-Version 1.1.1:
-- Deprecated Info
-
 Version 1.1.0:
 - Update growatt dependency to 0.4.1
 
