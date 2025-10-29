@@ -42,3 +42,8 @@ Version 1.1.0:
 
 Version 1.0.0:
 - Initial release
+
+## Maintained Fork Notice
+
+This is a maintained fork of [`node-red-contrib-growatt`](https://github.com/Looking4Cache/node-red-contrib-growatt) created by Thorsten Heilmann.
+The original project is no longer maintained. This fork includes fixes and enhancements to keep it compatible with current Node-RED and Growatt APIs.
