@@ -40,7 +40,21 @@ Version 1.1.0:
 Version 1.0.0:
 - Initial release
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+**Originally created by:** [Thorsten Heilmann](https://github.com/Looking4Cache)  
+**Maintained by:** [Richard Pointon](https://github.com/RichardPointon)
+
+
 ## Maintained Fork Notice
 
-This is a maintained fork of [`node-red-contrib-growatt`](https://github.com/Looking4Cache/node-red-contrib-growatt) created by Thorsten Heilmann.
-The original project is no longer maintained. This fork includes fixes and enhancements to keep it compatible with current Node-RED and Growatt APIs.
+This repository is a maintained fork of  
+[`node-red-contrib-growatt`](https://github.com/Looking4Cache/node-red-contrib-growatt)  
+by Thorsten Heilmann.
+
+The original project is no longer actively maintained.  
+This fork continues development with fixes and enhancements to ensure
+compatibility with current **Node-RED versions** and **Growatt inverter APIs**.
+
