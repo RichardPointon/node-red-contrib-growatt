@@ -3,7 +3,7 @@
         "label" : {
           "name": "Name",
           "username": "User",
-          "password": "Pasword"
+          "password": "Password"
         }
     }
 }
