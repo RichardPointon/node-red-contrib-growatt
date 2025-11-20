@@ -5,7 +5,7 @@ With this node you can download data from the Growatt© Shine Webserver. It is o
 
 ## Installation of Node-RED nodes
 
-You can install the growatt node through the Node-RED library. Search for 'richardpointon/node-red-contrib-growatt'.
+You can install the growatt node through the Node-RED library. Search for 'node-red-contrib-growatt-2'.
 
 
 ## Usage
