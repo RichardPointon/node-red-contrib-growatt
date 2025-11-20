@@ -5,19 +5,19 @@ With this node you can download data from the Growatt© Shine Webserver. It is o
 
 ## Installation of Node-RED nodes
 
-You can install the growatt node through the Node-RED library. Search for 'node-red-contrib-growatt'.
+You can install the growatt node through the Node-RED library. Search for 'richardpointon/node-red-contrib-growatt'.
 
 
 ## Usage
 
-After creating a 'Growatt' node, create at least one config node for the credentials you use to login at your ShinePhone app or on https://server.growatt.com. The config node you can reuse on several 'Growatt' nodes.
+After creating a 'Growatt' node, create at least one config node for the credentials you use to login with your ShinePhone app or on https://server.growatt.com. The config node can bed reused on several 'Growatt' nodes.
 
-As soon as a message arrives at the input of the node, the API call will be performed. The API result will be send as a new message through the output.
+As soon as a message arrives at the input of the node, the Growatt API call will be performed. The API result will be sent as a new message via the output.
 
 
 ## Known issues
 
-This node does not support the parameters historyLastStartDate, historyLastEndDate and historyStart at the moment, which is already available on the underlaying library.
+This node does not support the parameters historyLastStartDate, historyLastEndDate and historyStart at the moment, which are available in the underlying library.
 
 
 ## Contact / Issues
